@@ -1,0 +1,25 @@
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/ZYPlayer.ap_ \
+ : /Users/chenkang/Projects/ZYPlayer/platforms/android/res/drawable/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/res/drawable-hdpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/res/drawable-ldpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/res/drawable-mdpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/res/values/strings.xml \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/res/xml/config.xml \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/res/drawable/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/_where-is-www.txt \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/cordova.js \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/cordova_plugins.js \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/css \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/img \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/index.html \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/js \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/css/index.css \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/img/logo.png \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/assets/www/js/index.js \
+/Users/chenkang/Projects/ZYPlayer/platforms/android/ant-build/AndroidManifest.xml \
